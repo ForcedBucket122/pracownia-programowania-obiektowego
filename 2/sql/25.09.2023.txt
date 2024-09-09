@@ -1,0 +1,11 @@
+obiekty bazodanowe:
+1.tabele-podstawowa forma przechowywania i organizacji danych w bazie
+2.kwerendy-za ich pomoca dodajemy, modyfikujemy oraz tworzymy odpowiednie zestawienia danych w bazie
+3.formularze-za ich pomoca urzytkonicy wprowadzaja lub wyswietlaja dane
+4.raporty-to zestawienia danych do wydruku
+
+klucz obcy-to pole w tabeli ktore przechowuje takie same dane co do wartosci jak pole klucza podstawowego(glownego) w innej tabeli. 
+Wartosci klucza obcego moga sie powtarzac. 
+Przy jego urzyciu tworzymy relacje(miedzy encjami)
+
+typ relacji jeden do wielu-dowolnie wybrany rekord(wersz) z tabeli A jest powiazany z jednym lub wieloma rekordami tabeli B ale dowolnie wybrany rekord(wiersz) z tabeli B jest powiazany tylko z jednym rekordem z tabeli A. 
