@@ -1,0 +1,15 @@
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\lekcja1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\lekcja1.AssemblyInfoInputs.cache
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\lekcja1.AssemblyInfo.cs
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\lekcja1.csproj.CoreCompileInputs.cache
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\lekcja1.sourcelink.json
+D:\3pb JSZ\3\c#\lekcja1\bin\Debug\net8.0\lekcja1.exe
+D:\3pb JSZ\3\c#\lekcja1\bin\Debug\net8.0\lekcja1.deps.json
+D:\3pb JSZ\3\c#\lekcja1\bin\Debug\net8.0\lekcja1.runtimeconfig.json
+D:\3pb JSZ\3\c#\lekcja1\bin\Debug\net8.0\lekcja1.dll
+D:\3pb JSZ\3\c#\lekcja1\bin\Debug\net8.0\lekcja1.pdb
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\lekcja1.dll
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\refint\lekcja1.dll
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\lekcja1.pdb
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\lekcja1.genruntimeconfig.cache
+D:\3pb JSZ\3\c#\lekcja1\obj\Debug\net8.0\ref\lekcja1.dll
