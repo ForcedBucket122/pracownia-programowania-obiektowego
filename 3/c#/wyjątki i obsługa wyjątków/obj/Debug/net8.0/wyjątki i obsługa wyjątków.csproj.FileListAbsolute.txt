@@ -1,0 +1,15 @@
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\bin\Debug\net8.0\wyjątki i obsługa wyjątków.exe
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\bin\Debug\net8.0\wyjątki i obsługa wyjątków.deps.json
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\bin\Debug\net8.0\wyjątki i obsługa wyjątków.runtimeconfig.json
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\bin\Debug\net8.0\wyjątki i obsługa wyjątków.dll
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\bin\Debug\net8.0\wyjątki i obsługa wyjątków.pdb
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\wyjątki i obsługa wyjątków.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\wyjątki i obsługa wyjątków.AssemblyInfoInputs.cache
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\wyjątki i obsługa wyjątków.AssemblyInfo.cs
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\wyjątki i obsługa wyjątków.csproj.CoreCompileInputs.cache
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\wyjątki i obsługa wyjątków.sourcelink.json
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\wyjątki i obsługa wyjątków.dll
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\refint\wyjątki i obsługa wyjątków.dll
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\wyjątki i obsługa wyjątków.pdb
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\wyjątki i obsługa wyjątków.genruntimeconfig.cache
+D:\3pb JSZ\3\c#\wyjątki i obsługa wyjątków\obj\Debug\net8.0\ref\wyjątki i obsługa wyjątków.dll
