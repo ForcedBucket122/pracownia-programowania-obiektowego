@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("wyjątki i obsługa wyjątków")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("kalkulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0550ba3d55204d401d6522b0bdc546787bae2370")]
-[assembly: System.Reflection.AssemblyProductAttribute("wyjątki i obsługa wyjątków")]
-[assembly: System.Reflection.AssemblyTitleAttribute("wyjątki i obsługa wyjątków")]
+[assembly: System.Reflection.AssemblyProductAttribute("kalkulator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("kalkulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.

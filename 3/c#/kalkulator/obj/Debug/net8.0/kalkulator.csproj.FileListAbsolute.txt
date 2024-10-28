@@ -1,0 +1,15 @@
+D:\3pb JSZ\3\c#\kalkulator\bin\Debug\net8.0\kalkulator.exe
+D:\3pb JSZ\3\c#\kalkulator\bin\Debug\net8.0\kalkulator.deps.json
+D:\3pb JSZ\3\c#\kalkulator\bin\Debug\net8.0\kalkulator.runtimeconfig.json
+D:\3pb JSZ\3\c#\kalkulator\bin\Debug\net8.0\kalkulator.dll
+D:\3pb JSZ\3\c#\kalkulator\bin\Debug\net8.0\kalkulator.pdb
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfoInputs.cache
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfo.cs
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\kalkulator.csproj.CoreCompileInputs.cache
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\kalkulator.sourcelink.json
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\kalkulator.dll
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\refint\kalkulator.dll
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\kalkulator.pdb
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\kalkulator.genruntimeconfig.cache
+D:\3pb JSZ\3\c#\kalkulator\obj\Debug\net8.0\ref\kalkulator.dll
