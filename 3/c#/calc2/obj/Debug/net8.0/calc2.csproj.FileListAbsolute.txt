@@ -1,0 +1,15 @@
+D:\3pb JSZ\3\c#\calc2\bin\Debug\net8.0\calc2.exe
+D:\3pb JSZ\3\c#\calc2\bin\Debug\net8.0\calc2.deps.json
+D:\3pb JSZ\3\c#\calc2\bin\Debug\net8.0\calc2.runtimeconfig.json
+D:\3pb JSZ\3\c#\calc2\bin\Debug\net8.0\calc2.dll
+D:\3pb JSZ\3\c#\calc2\bin\Debug\net8.0\calc2.pdb
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\calc2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\calc2.AssemblyInfoInputs.cache
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\calc2.AssemblyInfo.cs
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\calc2.csproj.CoreCompileInputs.cache
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\calc2.sourcelink.json
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\calc2.dll
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\refint\calc2.dll
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\calc2.pdb
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\calc2.genruntimeconfig.cache
+D:\3pb JSZ\3\c#\calc2\obj\Debug\net8.0\ref\calc2.dll

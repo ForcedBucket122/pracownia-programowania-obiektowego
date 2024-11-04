@@ -1,0 +1,15 @@
+D:\3pb JSZ\3\c#\whanoi\bin\Debug\net8.0\whanoi.exe
+D:\3pb JSZ\3\c#\whanoi\bin\Debug\net8.0\whanoi.deps.json
+D:\3pb JSZ\3\c#\whanoi\bin\Debug\net8.0\whanoi.runtimeconfig.json
+D:\3pb JSZ\3\c#\whanoi\bin\Debug\net8.0\whanoi.dll
+D:\3pb JSZ\3\c#\whanoi\bin\Debug\net8.0\whanoi.pdb
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\whanoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\whanoi.AssemblyInfoInputs.cache
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\whanoi.AssemblyInfo.cs
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\whanoi.csproj.CoreCompileInputs.cache
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\whanoi.sourcelink.json
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\whanoi.dll
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\refint\whanoi.dll
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\whanoi.pdb
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\whanoi.genruntimeconfig.cache
+D:\3pb JSZ\3\c#\whanoi\obj\Debug\net8.0\ref\whanoi.dll
