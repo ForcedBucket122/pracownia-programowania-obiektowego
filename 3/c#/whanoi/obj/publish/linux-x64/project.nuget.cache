@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtwsYFEOqHzWP4pknV5CAw537uk6wfA+4lcUjYfIXLDedv/Ku5lKmbbbXhYTdEhuNH4ggqzEM77wL9xysWi4Pg==",
+  "success": true,
+  "projectFilePath": "D:\\3pb JSZ\\3\\c#\\whanoi\\whanoi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.3\\microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.3\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.3\\microsoft.netcore.app.host.linux-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
