@@ -1,0 +1,15 @@
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\klasy i obiekty.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\klasy i obiekty.AssemblyInfoInputs.cache
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\klasy i obiekty.AssemblyInfo.cs
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\klasy i obiekty.csproj.CoreCompileInputs.cache
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\klasy i obiekty.sourcelink.json
+D:\3pb JSZ\3\c#\klasy i obiekty\bin\Debug\net8.0\klasy i obiekty.exe
+D:\3pb JSZ\3\c#\klasy i obiekty\bin\Debug\net8.0\klasy i obiekty.deps.json
+D:\3pb JSZ\3\c#\klasy i obiekty\bin\Debug\net8.0\klasy i obiekty.runtimeconfig.json
+D:\3pb JSZ\3\c#\klasy i obiekty\bin\Debug\net8.0\klasy i obiekty.dll
+D:\3pb JSZ\3\c#\klasy i obiekty\bin\Debug\net8.0\klasy i obiekty.pdb
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\klasy i obiekty.dll
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\refint\klasy i obiekty.dll
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\klasy i obiekty.pdb
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\klasy i obiekty.genruntimeconfig.cache
+D:\3pb JSZ\3\c#\klasy i obiekty\obj\Debug\net8.0\ref\klasy i obiekty.dll
