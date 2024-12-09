@@ -1,0 +1,15 @@
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\bin\Debug\net8.0\metody statyczne.exe
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\bin\Debug\net8.0\metody statyczne.deps.json
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\bin\Debug\net8.0\metody statyczne.runtimeconfig.json
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\bin\Debug\net8.0\metody statyczne.dll
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\bin\Debug\net8.0\metody statyczne.pdb
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\metody statyczne.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\metody statyczne.AssemblyInfoInputs.cache
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\metody statyczne.AssemblyInfo.cs
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\metody statyczne.csproj.CoreCompileInputs.cache
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\metody statyczne.sourcelink.json
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\metody statyczne.dll
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\refint\metody statyczne.dll
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\metody statyczne.pdb
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\metody statyczne.genruntimeconfig.cache
+D:\3pb JSZ\3\c#\metody statyczne\metody statyczne\obj\Debug\net8.0\ref\metody statyczne.dll
