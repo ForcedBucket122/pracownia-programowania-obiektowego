@@ -1,0 +1,10 @@
+utworz klase Matematyka
+1.metoda silnia dowolna l naturalna przekazana jako parametr
+2.potega calkowita dowolnej liczby rzeczywistej 
+nie korzystamy z gotowych funkcji
+3.sprawdzajaca czy liczba jest liczba pierwsza
+4.sprawdzajaca czy podana jako liczba naturalna jest liczba doskonala
+5.algorytm euklidesa nwd dwoch liczb naturalnych podanych jako liczby naturalne
+program dziala w petli z menu wyboru
+z obsluga bledow
+za pomoca obiektow
