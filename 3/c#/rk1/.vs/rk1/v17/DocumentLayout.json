@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\3pb\\3\\c#\\rk1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDD5F307-B6A4-4921-AE4E-52F5A7B1BB57}|rk1.csproj|d:\\3pb\\3\\c#\\rk1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD5F307-B6A4-4921-AE4E-52F5A7B1BB57}|rk1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDD5F307-B6A4-4921-AE4E-52F5A7B1BB57}|rk1.csproj|d:\\3pb\\3\\c#\\rk1\\rk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDD5F307-B6A4-4921-AE4E-52F5A7B1BB57}|rk1.csproj|solutionrelative:rk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD5F307-B6A4-4921-AE4E-52F5A7B1BB57}|rk1.csproj|d:\\3pb\\3\\c#\\rk1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD5F307-B6A4-4921-AE4E-52F5A7B1BB57}|rk1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RK.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\rk1\\RK.cs",
               "RelativeDocumentMoniker": "RK.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\rk1\\RK.cs",
               "RelativeToolTip": "RK.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T11:37:55.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\rk1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\rk1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T11:35:57.909Z",
               "EditorCaption": ""

@@ -14,21 +14,25 @@ namespace rk1
         {
             double delta=Math.Pow(b,2)-4*a*c;
             double pierwiastekDelta = Math.Sqrt(delta);
+            Console.WriteLine("delta="+delta);
             if(delta > 0 )
             {
-                double x1 = (-b - pierwiastekDelta) / 2 * a;
-                double x2 = (-b + pierwiastekDelta) / 2 * a;
+                double x1 = (-b - pierwiastekDelta) / (2 * a);
+                double x2 = (-b + pierwiastekDelta) / (2 * a);
                 Console.WriteLine("x1= "+x1+"\nx2= "+x2);
             }
             else if(delta == 0 ) 
             {
-                double x0 = -b/2 * a;
-                Console.WriteLine(x0);
+                double x0 = -b/(2 * a);
+                Console.WriteLine("x0="+x0);
             }
             else
             {
                 Console.WriteLine("Brak rozwiazan");
             }
+        }
+        public RK(double a, double b, double c) { 
+            this.a = a; this.b = b; this.c = c;
         }
     }
 }

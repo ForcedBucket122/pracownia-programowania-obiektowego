@@ -1,0 +1,15 @@
+D:\3pb\3\c#\rk1\bin\Debug\net8.0\rk1.exe
+D:\3pb\3\c#\rk1\bin\Debug\net8.0\rk1.deps.json
+D:\3pb\3\c#\rk1\bin\Debug\net8.0\rk1.runtimeconfig.json
+D:\3pb\3\c#\rk1\bin\Debug\net8.0\rk1.dll
+D:\3pb\3\c#\rk1\bin\Debug\net8.0\rk1.pdb
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\rk1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\rk1.AssemblyInfoInputs.cache
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\rk1.AssemblyInfo.cs
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\rk1.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\rk1.sourcelink.json
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\rk1.dll
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\refint\rk1.dll
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\rk1.pdb
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\rk1.genruntimeconfig.cache
+D:\3pb\3\c#\rk1\obj\Debug\net8.0\ref\rk1.dll
