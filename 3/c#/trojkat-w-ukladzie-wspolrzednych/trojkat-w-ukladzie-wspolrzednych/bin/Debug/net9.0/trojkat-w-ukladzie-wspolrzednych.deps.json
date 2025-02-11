@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "trojkat-w-ukladzie-wspolrzednych/1.0.0": {
+        "runtime": {
+          "trojkat-w-ukladzie-wspolrzednych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trojkat-w-ukladzie-wspolrzednych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

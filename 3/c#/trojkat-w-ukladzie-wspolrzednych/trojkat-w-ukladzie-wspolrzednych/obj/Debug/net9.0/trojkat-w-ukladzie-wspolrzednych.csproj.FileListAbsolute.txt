@@ -1,0 +1,15 @@
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\bin\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.exe
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\bin\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.deps.json
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\bin\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.runtimeconfig.json
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\bin\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.dll
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\bin\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.pdb
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.AssemblyInfoInputs.cache
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.AssemblyInfo.cs
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.sourcelink.json
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.dll
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\refint\trojkat-w-ukladzie-wspolrzednych.dll
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.pdb
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\trojkat-w-ukladzie-wspolrzednych.genruntimeconfig.cache
+D:\3pb\3\c#\trojkat-w-ukladzie-wspolrzednych\trojkat-w-ukladzie-wspolrzednych\obj\Debug\net9.0\ref\trojkat-w-ukladzie-wspolrzednych.dll
