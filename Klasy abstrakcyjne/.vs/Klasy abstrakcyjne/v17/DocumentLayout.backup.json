@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3pb\\Klasy abstrakcyjne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|d:\\3pb\\klasy abstrakcyjne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|d:\\3pb\\klasy abstrakcyjne\\zwierzeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|solutionrelative:zwierzeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|d:\\3pb\\klasy abstrakcyjne\\krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|solutionrelative:krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|d:\\3pb\\klasy abstrakcyjne\\pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|solutionrelative:pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|d:\\3pb\\klasy abstrakcyjne\\kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CD4E3C-F1E8-4E48-B47C-CE387793101D}|Klasy abstrakcyjne.csproj|solutionrelative:kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Krowa.cs",
+              "DocumentMoniker": "D:\\3pb\\Klasy abstrakcyjne\\Krowa.cs",
+              "RelativeDocumentMoniker": "Krowa.cs",
+              "ToolTip": "D:\\3pb\\Klasy abstrakcyjne\\Krowa.cs*",
+              "RelativeToolTip": "Krowa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:40:53.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pies.cs",
+              "DocumentMoniker": "D:\\3pb\\Klasy abstrakcyjne\\Pies.cs",
+              "RelativeDocumentMoniker": "Pies.cs",
+              "ToolTip": "D:\\3pb\\Klasy abstrakcyjne\\Pies.cs*",
+              "RelativeToolTip": "Pies.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:40:16.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kot.cs",
+              "DocumentMoniker": "D:\\3pb\\Klasy abstrakcyjne\\Kot.cs",
+              "RelativeDocumentMoniker": "Kot.cs",
+              "ToolTip": "D:\\3pb\\Klasy abstrakcyjne\\Kot.cs",
+              "RelativeToolTip": "Kot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:33:26.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zwierzeta.cs",
+              "DocumentMoniker": "D:\\3pb\\Klasy abstrakcyjne\\Zwierzeta.cs",
+              "RelativeDocumentMoniker": "Zwierzeta.cs",
+              "ToolTip": "D:\\3pb\\Klasy abstrakcyjne\\Zwierzeta.cs",
+              "RelativeToolTip": "Zwierzeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:23:14.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3pb\\Klasy abstrakcyjne\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\3pb\\Klasy abstrakcyjne\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:17:25.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

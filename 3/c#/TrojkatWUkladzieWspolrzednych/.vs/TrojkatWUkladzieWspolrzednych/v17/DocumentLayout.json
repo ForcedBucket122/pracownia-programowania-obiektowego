@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Trojkat.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\TrojkatWUkladzieWspolrzednych\\Trojkat.cs",
               "RelativeToolTip": "Trojkat.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T13:04:25.933Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Odcinek.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:42:53.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T12:42:53.153Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Punkt.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:03:24.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T12:03:24.449Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwC0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:02:39.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T12:02:39.15Z"
             }
           ]
         }

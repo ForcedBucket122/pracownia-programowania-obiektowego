@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasy abstrakcyjne", "Klasy abstrakcyjne.csproj", "{52CD4E3C-F1E8-4E48-B47C-CE387793101D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figury Plaskie", "..\Figury Plaskie\Figury Plaskie.csproj", "{87F92CDE-D904-4392-9B22-3719D50C4659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52CD4E3C-F1E8-4E48-B47C-CE387793101D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CD4E3C-F1E8-4E48-B47C-CE387793101D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CD4E3C-F1E8-4E48-B47C-CE387793101D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CD4E3C-F1E8-4E48-B47C-CE387793101D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F92CDE-D904-4392-9B22-3719D50C4659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F92CDE-D904-4392-9B22-3719D50C4659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F92CDE-D904-4392-9B22-3719D50C4659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F92CDE-D904-4392-9B22-3719D50C4659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

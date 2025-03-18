@@ -1,0 +1,15 @@
+D:\3pb\Klasy abstrakcyjne\bin\Debug\net9.0\Klasy abstrakcyjne.exe
+D:\3pb\Klasy abstrakcyjne\bin\Debug\net9.0\Klasy abstrakcyjne.deps.json
+D:\3pb\Klasy abstrakcyjne\bin\Debug\net9.0\Klasy abstrakcyjne.runtimeconfig.json
+D:\3pb\Klasy abstrakcyjne\bin\Debug\net9.0\Klasy abstrakcyjne.dll
+D:\3pb\Klasy abstrakcyjne\bin\Debug\net9.0\Klasy abstrakcyjne.pdb
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\Klasy abstrakcyjne.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\Klasy abstrakcyjne.AssemblyInfoInputs.cache
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\Klasy abstrakcyjne.AssemblyInfo.cs
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\Klasy abstrakcyjne.csproj.CoreCompileInputs.cache
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\Klasy abstrakcyjne.sourcelink.json
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\Klasy abstrakcyjne.dll
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\refint\Klasy abstrakcyjne.dll
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\Klasy abstrakcyjne.pdb
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\Klasy abstrakcyjne.genruntimeconfig.cache
+D:\3pb\Klasy abstrakcyjne\obj\Debug\net9.0\ref\Klasy abstrakcyjne.dll

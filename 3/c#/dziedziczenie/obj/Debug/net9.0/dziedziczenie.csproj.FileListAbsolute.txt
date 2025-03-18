@@ -1,0 +1,15 @@
+D:\3pb\3\c#\dziedziczenie\bin\Debug\net9.0\dziedziczenie.exe
+D:\3pb\3\c#\dziedziczenie\bin\Debug\net9.0\dziedziczenie.deps.json
+D:\3pb\3\c#\dziedziczenie\bin\Debug\net9.0\dziedziczenie.runtimeconfig.json
+D:\3pb\3\c#\dziedziczenie\bin\Debug\net9.0\dziedziczenie.dll
+D:\3pb\3\c#\dziedziczenie\bin\Debug\net9.0\dziedziczenie.pdb
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\dziedziczenie.AssemblyInfoInputs.cache
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\dziedziczenie.AssemblyInfo.cs
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\dziedziczenie.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\dziedziczenie.sourcelink.json
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\dziedziczenie.dll
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\refint\dziedziczenie.dll
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\dziedziczenie.pdb
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\dziedziczenie.genruntimeconfig.cache
+D:\3pb\3\c#\dziedziczenie\obj\Debug\net9.0\ref\dziedziczenie.dll
