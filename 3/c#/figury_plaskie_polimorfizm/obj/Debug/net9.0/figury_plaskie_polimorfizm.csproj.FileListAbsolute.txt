@@ -1,0 +1,15 @@
+D:\3pb\3\c#\figury_plaskie_polimorfizm\bin\Debug\net9.0\figury_plaskie_polimorfizm.exe
+D:\3pb\3\c#\figury_plaskie_polimorfizm\bin\Debug\net9.0\figury_plaskie_polimorfizm.deps.json
+D:\3pb\3\c#\figury_plaskie_polimorfizm\bin\Debug\net9.0\figury_plaskie_polimorfizm.runtimeconfig.json
+D:\3pb\3\c#\figury_plaskie_polimorfizm\bin\Debug\net9.0\figury_plaskie_polimorfizm.dll
+D:\3pb\3\c#\figury_plaskie_polimorfizm\bin\Debug\net9.0\figury_plaskie_polimorfizm.pdb
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\figury_plaskie_polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\figury_plaskie_polimorfizm.AssemblyInfoInputs.cache
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\figury_plaskie_polimorfizm.AssemblyInfo.cs
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\figury_plaskie_polimorfizm.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\figury_plaskie_polimorfizm.sourcelink.json
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\figury_plaskie_polimorfizm.dll
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\refint\figury_plaskie_polimorfizm.dll
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\figury_plaskie_polimorfizm.pdb
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\figury_plaskie_polimorfizm.genruntimeconfig.cache
+D:\3pb\3\c#\figury_plaskie_polimorfizm\obj\Debug\net9.0\ref\figury_plaskie_polimorfizm.dll

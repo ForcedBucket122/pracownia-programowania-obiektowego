@@ -1,0 +1,15 @@
+D:\3pb\3\c#\polimorfizm\bin\Debug\net9.0\polimorfizm.exe
+D:\3pb\3\c#\polimorfizm\bin\Debug\net9.0\polimorfizm.deps.json
+D:\3pb\3\c#\polimorfizm\bin\Debug\net9.0\polimorfizm.runtimeconfig.json
+D:\3pb\3\c#\polimorfizm\bin\Debug\net9.0\polimorfizm.dll
+D:\3pb\3\c#\polimorfizm\bin\Debug\net9.0\polimorfizm.pdb
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\polimorfizm.AssemblyInfoInputs.cache
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\polimorfizm.AssemblyInfo.cs
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\polimorfizm.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\polimorfizm.sourcelink.json
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\polimorfizm.dll
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\refint\polimorfizm.dll
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\polimorfizm.pdb
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\polimorfizm.genruntimeconfig.cache
+D:\3pb\3\c#\polimorfizm\obj\Debug\net9.0\ref\polimorfizm.dll
