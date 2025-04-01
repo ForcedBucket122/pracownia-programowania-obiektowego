@@ -67,7 +67,7 @@
                             {
                                 foreach (var figura in figury)
                                 {
-                                    Console.WriteLine($"Typ: {figura.typ}");
+                                    Console.WriteLine($"Typ: {figura.typ()}");
                                     Console.WriteLine($"Pole: {figura.pole():F2}");
                                     Console.WriteLine($"Obwód: {figura.obwod():F2}\n");
                                 }

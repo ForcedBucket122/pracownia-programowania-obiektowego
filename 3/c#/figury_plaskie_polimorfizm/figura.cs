@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace figury_plaskie_polimorfizm
 {
-    internal class figura
+    abstract internal class figura
     {
-        public virtual double pole() => 0;
-        public virtual double obwod() => 0;
-        public virtual string typ => "nieokreślona figura";
+        abstract public double pole();
+        abstract public double obwod();
+        public string typ() => GetType().Name;
     }
 }

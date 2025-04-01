@@ -19,6 +19,6 @@ namespace figury_plaskie_polimorfizm
 
         public override double pole() => dlugosc * szerokosc;
         public override double obwod() => 2 * (dlugosc + szerokosc);
-        public override string typ => "prostokąt";
+        //public override string typ => "prostokąt";
     }
 }

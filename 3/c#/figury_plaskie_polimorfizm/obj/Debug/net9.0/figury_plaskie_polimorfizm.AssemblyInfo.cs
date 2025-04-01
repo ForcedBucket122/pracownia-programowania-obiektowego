@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("figury_plaskie_polimorfizm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d58874ae72a74c2617fa46ed51fc2fc84ba11795")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f384d942c6a720f17d01fd27dde1b2fd86c7c5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("figury_plaskie_polimorfizm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("figury_plaskie_polimorfizm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

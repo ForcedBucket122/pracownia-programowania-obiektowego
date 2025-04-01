@@ -1,0 +1,15 @@
+D:\3pb\3\c#\klasy_abstrakcyjne\bin\Debug\net9.0\klasy_abstrakcyjne.exe
+D:\3pb\3\c#\klasy_abstrakcyjne\bin\Debug\net9.0\klasy_abstrakcyjne.deps.json
+D:\3pb\3\c#\klasy_abstrakcyjne\bin\Debug\net9.0\klasy_abstrakcyjne.runtimeconfig.json
+D:\3pb\3\c#\klasy_abstrakcyjne\bin\Debug\net9.0\klasy_abstrakcyjne.dll
+D:\3pb\3\c#\klasy_abstrakcyjne\bin\Debug\net9.0\klasy_abstrakcyjne.pdb
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\klasy_abstrakcyjne.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\klasy_abstrakcyjne.AssemblyInfoInputs.cache
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\klasy_abstrakcyjne.AssemblyInfo.cs
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\klasy_abstrakcyjne.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\klasy_abstrakcyjne.sourcelink.json
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\klasy_abstrakcyjne.dll
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\refint\klasy_abstrakcyjne.dll
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\klasy_abstrakcyjne.pdb
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\klasy_abstrakcyjne.genruntimeconfig.cache
+D:\3pb\3\c#\klasy_abstrakcyjne\obj\Debug\net9.0\ref\klasy_abstrakcyjne.dll

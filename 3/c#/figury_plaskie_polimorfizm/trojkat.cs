@@ -35,6 +35,6 @@ namespace figury_plaskie_polimorfizm
             return bokA + bokB + bokC;
         }
 
-        public override string typ => "trójkąt";
+        //public override string typ => "trójkąt";
     }
 }

@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|solutionrelative:figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|d:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|solutionrelative:kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|d:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\trojkat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|solutionrelative:trojkat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|d:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|solutionrelative:kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,26 +50,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "trojkat.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\trojkat.cs",
               "RelativeDocumentMoniker": "trojkat.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\trojkat.cs",
               "RelativeToolTip": "trojkat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T12:41:29.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "kolo.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\kolo.cs",
               "RelativeDocumentMoniker": "kolo.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\kolo.cs",
               "RelativeToolTip": "kolo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T12:40:56.114Z",
               "EditorCaption": ""
@@ -82,7 +82,7 @@
               "RelativeDocumentMoniker": "prostokat.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\prostokat.cs",
               "RelativeToolTip": "prostokat.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T12:40:15.043Z",
               "EditorCaption": ""
@@ -95,7 +95,7 @@
               "RelativeDocumentMoniker": "figura.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\figura.cs",
               "RelativeToolTip": "figura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T12:33:27.551Z",
               "EditorCaption": ""
@@ -108,7 +108,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwF0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwEkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T11:57:53.62Z",
               "EditorCaption": ""

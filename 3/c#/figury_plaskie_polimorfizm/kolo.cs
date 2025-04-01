@@ -17,6 +17,6 @@ namespace figury_plaskie_polimorfizm
 
         public override double pole() => Math.PI * Math.Pow(promien, 2);
         public override double obwod() => 2 * Math.PI * promien;
-        public override string typ => "koło";
+        //public override string typ => "koło";
     }
 }
