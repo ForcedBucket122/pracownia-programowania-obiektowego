@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\3pb\\3\\c#\\polimorfizm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B74FFB0D-A021-476E-9276-378A77EAA764}|polimorfizm.csproj|d:\\3pb\\3\\c#\\polimorfizm\\zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74FFB0D-A021-476E-9276-378A77EAA764}|polimorfizm.csproj|solutionrelative:zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B74FFB0D-A021-476E-9276-378A77EAA764}|polimorfizm.csproj|d:\\3pb\\3\\c#\\polimorfizm\\pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B74FFB0D-A021-476E-9276-378A77EAA764}|polimorfizm.csproj|solutionrelative:pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B74FFB0D-A021-476E-9276-378A77EAA764}|polimorfizm.csproj|d:\\3pb\\3\\c#\\polimorfizm\\krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B74FFB0D-A021-476E-9276-378A77EAA764}|polimorfizm.csproj|solutionrelative:krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74FFB0D-A021-476E-9276-378A77EAA764}|polimorfizm.csproj|d:\\3pb\\3\\c#\\polimorfizm\\zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74FFB0D-A021-476E-9276-378A77EAA764}|polimorfizm.csproj|solutionrelative:zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B74FFB0D-A021-476E-9276-378A77EAA764}|polimorfizm.csproj|d:\\3pb\\3\\c#\\polimorfizm\\kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Krowa.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\polimorfizm\\Krowa.cs",
               "RelativeDocumentMoniker": "Krowa.cs",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pies.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\polimorfizm\\Pies.cs",
               "RelativeDocumentMoniker": "Pies.cs",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Zwierze.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\polimorfizm\\Zwierze.cs",
               "RelativeDocumentMoniker": "Zwierze.cs",
@@ -95,11 +95,12 @@
               "RelativeToolTip": "Zwierze.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T12:00:56.176Z"
+              "WhenOpened": "2025-03-18T12:00:56.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\polimorfizm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -107,8 +108,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwDgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:38:43.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T11:38:43.612Z"
             }
           ]
         }

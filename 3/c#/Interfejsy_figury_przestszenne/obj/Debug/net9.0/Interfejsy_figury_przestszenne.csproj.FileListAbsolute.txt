@@ -1,0 +1,15 @@
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\bin\Debug\net9.0\Interfejsy_figury_przestszenne.exe
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\bin\Debug\net9.0\Interfejsy_figury_przestszenne.deps.json
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\bin\Debug\net9.0\Interfejsy_figury_przestszenne.runtimeconfig.json
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\bin\Debug\net9.0\Interfejsy_figury_przestszenne.dll
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\bin\Debug\net9.0\Interfejsy_figury_przestszenne.pdb
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\Interfejsy_figury_przestszenne.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\Interfejsy_figury_przestszenne.AssemblyInfoInputs.cache
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\Interfejsy_figury_przestszenne.AssemblyInfo.cs
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\Interfejsy_figury_przestszenne.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\Interfejsy_figury_przestszenne.sourcelink.json
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\Interfejsy_figury_przestszenne.dll
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\refint\Interfejsy_figury_przestszenne.dll
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\Interfejsy_figury_przestszenne.pdb
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\Interfejsy_figury_przestszenne.genruntimeconfig.cache
+D:\3pb\3\c#\Interfejsy_figury_przestszenne\obj\Debug\net9.0\ref\Interfejsy_figury_przestszenne.dll

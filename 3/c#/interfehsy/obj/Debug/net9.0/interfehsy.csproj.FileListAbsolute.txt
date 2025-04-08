@@ -1,0 +1,15 @@
+D:\3pb\3\c#\interfehsy\bin\Debug\net9.0\interfehsy.exe
+D:\3pb\3\c#\interfehsy\bin\Debug\net9.0\interfehsy.deps.json
+D:\3pb\3\c#\interfehsy\bin\Debug\net9.0\interfehsy.runtimeconfig.json
+D:\3pb\3\c#\interfehsy\bin\Debug\net9.0\interfehsy.dll
+D:\3pb\3\c#\interfehsy\bin\Debug\net9.0\interfehsy.pdb
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\interfehsy.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\interfehsy.AssemblyInfoInputs.cache
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\interfehsy.AssemblyInfo.cs
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\interfehsy.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\interfehsy.sourcelink.json
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\interfehsy.dll
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\refint\interfehsy.dll
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\interfehsy.pdb
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\interfehsy.genruntimeconfig.cache
+D:\3pb\3\c#\interfehsy\obj\Debug\net9.0\ref\interfehsy.dll

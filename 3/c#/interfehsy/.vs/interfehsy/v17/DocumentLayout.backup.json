@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3pb\\3\\c#\\interfehsy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|d:\\3pb\\3\\c#\\interfehsy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|d:\\3pb\\3\\c#\\interfehsy\\krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|solutionrelative:krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|d:\\3pb\\3\\c#\\interfehsy\\kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|solutionrelative:kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|d:\\3pb\\3\\c#\\interfehsy\\pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|solutionrelative:pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|d:\\3pb\\3\\c#\\interfehsy\\zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|solutionrelative:zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|d:\\3pb\\3\\c#\\interfehsy\\zwierze3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|solutionrelative:zwierze3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|d:\\3pb\\3\\c#\\interfehsy\\zwierze2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897E3AD-6426-4ED2-94EE-DAF7B5F5BF31}|interfehsy.csproj|solutionrelative:zwierze2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zwierze3.cs",
+              "DocumentMoniker": "D:\\3pb\\3\\c#\\interfehsy\\Zwierze3.cs",
+              "RelativeDocumentMoniker": "Zwierze3.cs",
+              "ToolTip": "D:\\3pb\\3\\c#\\interfehsy\\Zwierze3.cs",
+              "RelativeToolTip": "Zwierze3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:33:21.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zwierze2.cs",
+              "DocumentMoniker": "D:\\3pb\\3\\c#\\interfehsy\\Zwierze2.cs",
+              "RelativeDocumentMoniker": "Zwierze2.cs",
+              "ToolTip": "D:\\3pb\\3\\c#\\interfehsy\\Zwierze2.cs",
+              "RelativeToolTip": "Zwierze2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:30:34.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Krowa.cs",
+              "DocumentMoniker": "D:\\3pb\\3\\c#\\interfehsy\\Krowa.cs",
+              "RelativeDocumentMoniker": "Krowa.cs",
+              "ToolTip": "D:\\3pb\\3\\c#\\interfehsy\\Krowa.cs",
+              "RelativeToolTip": "Krowa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:59:23.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kot.cs",
+              "DocumentMoniker": "D:\\3pb\\3\\c#\\interfehsy\\Kot.cs",
+              "RelativeDocumentMoniker": "Kot.cs",
+              "ToolTip": "D:\\3pb\\3\\c#\\interfehsy\\Kot.cs",
+              "RelativeToolTip": "Kot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:59:04.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pies.cs",
+              "DocumentMoniker": "D:\\3pb\\3\\c#\\interfehsy\\Pies.cs",
+              "RelativeDocumentMoniker": "Pies.cs",
+              "ToolTip": "D:\\3pb\\3\\c#\\interfehsy\\Pies.cs",
+              "RelativeToolTip": "Pies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:58:00.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zwierze.cs",
+              "DocumentMoniker": "D:\\3pb\\3\\c#\\interfehsy\\Zwierze.cs",
+              "RelativeDocumentMoniker": "Zwierze.cs",
+              "ToolTip": "D:\\3pb\\3\\c#\\interfehsy\\Zwierze.cs",
+              "RelativeToolTip": "Zwierze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:52:03.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3pb\\3\\c#\\interfehsy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\3pb\\3\\c#\\interfehsy\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:50:06.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

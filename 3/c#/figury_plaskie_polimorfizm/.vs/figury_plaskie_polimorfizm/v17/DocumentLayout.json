@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|d:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|solutionrelative:figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|d:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|d:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\prostokat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|solutionrelative:prostokat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|d:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|solutionrelative:figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2D1FAE6-6656-43CA-BEC5-1E2C9C0366EA}|figury_plaskie_polimorfizm.csproj|d:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\trojkat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,8 +58,7 @@
               "RelativeToolTip": "trojkat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:41:29.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T12:41:29.532Z"
             },
             {
               "$type": "Document",
@@ -71,12 +70,11 @@
               "RelativeToolTip": "kolo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:40:56.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T12:40:56.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "prostokat.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\prostokat.cs",
               "RelativeDocumentMoniker": "prostokat.cs",
@@ -84,12 +82,11 @@
               "RelativeToolTip": "prostokat.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:40:15.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T12:40:15.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "figura.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\figura.cs",
               "RelativeDocumentMoniker": "figura.cs",
@@ -102,16 +99,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\figury_plaskie_polimorfizm\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAgwEkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwEkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:57:53.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T11:57:53.62Z"
             }
           ]
         }
