@@ -8,14 +8,24 @@ namespace Interfejsy_figury_przestszenne
 {
     internal class Walec : FiguryPrzestrzenne
     {
-        public void Objetosc()
+        double r, h;
+
+        public Walec(double r, double h)
         {
-            throw new NotImplementedException();
+            this.r = r;
+            this.h = h;
         }
 
-        public void PolePowierzchni()
+        public double Objetosc()
         {
-            throw new NotImplementedException();
+            double V = Math.PI * Math.Pow(r, 2) * h;
+            return V;
+        }
+
+        public double PolePowierzchni()
+        {
+            double P=2*Math.PI*r*(r+h);
+            return P;
         }
     }
 }

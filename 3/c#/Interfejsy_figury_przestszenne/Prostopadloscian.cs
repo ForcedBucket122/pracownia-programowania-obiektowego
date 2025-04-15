@@ -17,15 +17,15 @@ namespace Interfejsy_figury_przestszenne
             this.c = c;
         }
 
-        public void Objetosc()
+        public double Objetosc()
         {
-            Console.WriteLine(a*b*c);
+            return a*b*c;
         }
 
-        public void PolePowierzchni()
+        public double PolePowierzchni()
         {
             double pole = (2 * a * b) + (2 * a * c) + (2 * b * c);
-            Console.WriteLine(pole);
+            return pole;
         }
     }
 }

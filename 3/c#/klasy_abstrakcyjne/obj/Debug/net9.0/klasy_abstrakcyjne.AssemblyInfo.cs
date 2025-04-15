@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("klasy_abstrakcyjne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8ebf3b4ebbd1bb8fcf44f87cee5becaed5a939f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3663f54bf25ac9f4e5afd127e0fd793c840f0917")]
 [assembly: System.Reflection.AssemblyProductAttribute("klasy_abstrakcyjne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("klasy_abstrakcyjne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

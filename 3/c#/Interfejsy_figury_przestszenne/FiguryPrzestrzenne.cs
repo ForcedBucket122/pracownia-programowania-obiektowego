@@ -8,8 +8,8 @@ namespace Interfejsy_figury_przestszenne
 {
     internal interface FiguryPrzestrzenne
     {
-        public void PolePowierzchni();
-        public void Objetosc();
+        public double PolePowierzchni();
+        public double Objetosc();
         public String Typ()=>GetType().Name;
     }
 }

@@ -1,0 +1,15 @@
+D:\3pb\3\c#\kolekcje\bin\Debug\net9.0\kolekcje.exe
+D:\3pb\3\c#\kolekcje\bin\Debug\net9.0\kolekcje.deps.json
+D:\3pb\3\c#\kolekcje\bin\Debug\net9.0\kolekcje.runtimeconfig.json
+D:\3pb\3\c#\kolekcje\bin\Debug\net9.0\kolekcje.dll
+D:\3pb\3\c#\kolekcje\bin\Debug\net9.0\kolekcje.pdb
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\kolekcje.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\kolekcje.AssemblyInfoInputs.cache
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\kolekcje.AssemblyInfo.cs
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\kolekcje.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\kolekcje.sourcelink.json
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\kolekcje.dll
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\refint\kolekcje.dll
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\kolekcje.pdb
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\kolekcje.genruntimeconfig.cache
+D:\3pb\3\c#\kolekcje\obj\Debug\net9.0\ref\kolekcje.dll

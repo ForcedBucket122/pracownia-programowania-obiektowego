@@ -13,16 +13,16 @@ namespace Interfejsy_figury_przestszenne
         {
             this.r = r;
         }
-        public void Objetosc()
+        public double Objetosc()
         {
             double objetosc = (4.0/3)*Math.PI*Math.Pow(r, 3);
-            Console.WriteLine(objetosc);
+            return objetosc;
         }
 
-        public void PolePowierzchni()
+        public double PolePowierzchni()
         {
             double pole = 4*Math.PI*Math.Pow(r, 2);
-            Console.WriteLine(pole);
+            return pole;
         }
     }
 }

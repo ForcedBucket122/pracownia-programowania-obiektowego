@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|d:\\3pb\\3\\c#\\interfejsy_figury_przestszenne\\prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|solutionrelative:prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|d:\\3pb\\3\\c#\\interfejsy_figury_przestszenne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|d:\\3pb\\3\\c#\\interfejsy_figury_przestszenne\\stozek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|solutionrelative:stozek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|d:\\3pb\\3\\c#\\interfejsy_figury_przestszenne\\walec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|solutionrelative:walec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|d:\\3pb\\3\\c#\\interfejsy_figury_przestszenne\\prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|solutionrelative:prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|d:\\3pb\\3\\c#\\interfejsy_figury_przestszenne\\kula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|d:\\3pb\\3\\c#\\interfejsy_figury_przestszenne\\figuryprzestrzenne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|solutionrelative:figuryprzestrzenne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|d:\\3pb\\3\\c#\\interfejsy_figury_przestszenne\\walec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|solutionrelative:walec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|d:\\3pb\\3\\c#\\interfejsy_figury_przestszenne\\stozek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D576A84-FD7A-4B70-B2AB-FABD33E837A1}|Interfejsy_figury_przestszenne.csproj|solutionrelative:stozek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,78 +54,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Kula.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Kula.cs",
               "RelativeDocumentMoniker": "Kula.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Kula.cs",
               "RelativeToolTip": "Kula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T11:48:56.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Prostopadloscian.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Prostopadloscian.cs",
               "RelativeDocumentMoniker": "Prostopadloscian.cs",
-              "ToolTip": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Prostopadloscian.cs*",
-              "RelativeToolTip": "Prostopadloscian.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "ToolTip": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Prostopadloscian.cs",
+              "RelativeToolTip": "Prostopadloscian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T11:49:17.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Walec.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Walec.cs",
               "RelativeDocumentMoniker": "Walec.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Walec.cs",
               "RelativeToolTip": "Walec.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T11:49:09.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Stozek.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Stozek.cs",
               "RelativeDocumentMoniker": "Stozek.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Stozek.cs",
               "RelativeToolTip": "Stozek.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T11:49:02.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FiguryPrzestrzenne.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\FiguryPrzestrzenne.cs",
               "RelativeDocumentMoniker": "FiguryPrzestrzenne.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\FiguryPrzestrzenne.cs",
               "RelativeToolTip": "FiguryPrzestrzenne.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T11:47:18.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\3pb\\3\\c#\\Interfejsy_figury_przestszenne\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T11:37:38.907Z",
               "EditorCaption": ""
