@@ -1,0 +1,15 @@
+D:\3pb\3\c#\odczytPliku\bin\Debug\net9.0\odczytPliku.exe
+D:\3pb\3\c#\odczytPliku\bin\Debug\net9.0\odczytPliku.deps.json
+D:\3pb\3\c#\odczytPliku\bin\Debug\net9.0\odczytPliku.runtimeconfig.json
+D:\3pb\3\c#\odczytPliku\bin\Debug\net9.0\odczytPliku.dll
+D:\3pb\3\c#\odczytPliku\bin\Debug\net9.0\odczytPliku.pdb
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\odczytPliku.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\odczytPliku.AssemblyInfoInputs.cache
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\odczytPliku.AssemblyInfo.cs
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\odczytPliku.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\odczytPliku.sourcelink.json
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\odczytPliku.dll
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\refint\odczytPliku.dll
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\odczytPliku.pdb
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\odczytPliku.genruntimeconfig.cache
+D:\3pb\3\c#\odczytPliku\obj\Debug\net9.0\ref\odczytPliku.dll
