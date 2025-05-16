@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("odczytPliku")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("listy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+634b33b5e0a34a3c3f6c040afa6aacc43b324ca1")]
-[assembly: System.Reflection.AssemblyProductAttribute("odczytPliku")]
-[assembly: System.Reflection.AssemblyTitleAttribute("odczytPliku")]
+[assembly: System.Reflection.AssemblyProductAttribute("listy")]
+[assembly: System.Reflection.AssemblyTitleAttribute("listy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
