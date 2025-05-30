@@ -1,0 +1,15 @@
+D:\3pb\3\c#\listy\bin\Debug\net9.0\listy.exe
+D:\3pb\3\c#\listy\bin\Debug\net9.0\listy.deps.json
+D:\3pb\3\c#\listy\bin\Debug\net9.0\listy.runtimeconfig.json
+D:\3pb\3\c#\listy\bin\Debug\net9.0\listy.dll
+D:\3pb\3\c#\listy\bin\Debug\net9.0\listy.pdb
+D:\3pb\3\c#\listy\obj\Debug\net9.0\listy.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\3\c#\listy\obj\Debug\net9.0\listy.AssemblyInfoInputs.cache
+D:\3pb\3\c#\listy\obj\Debug\net9.0\listy.AssemblyInfo.cs
+D:\3pb\3\c#\listy\obj\Debug\net9.0\listy.csproj.CoreCompileInputs.cache
+D:\3pb\3\c#\listy\obj\Debug\net9.0\listy.sourcelink.json
+D:\3pb\3\c#\listy\obj\Debug\net9.0\listy.dll
+D:\3pb\3\c#\listy\obj\Debug\net9.0\refint\listy.dll
+D:\3pb\3\c#\listy\obj\Debug\net9.0\listy.pdb
+D:\3pb\3\c#\listy\obj\Debug\net9.0\listy.genruntimeconfig.cache
+D:\3pb\3\c#\listy\obj\Debug\net9.0\ref\listy.dll
