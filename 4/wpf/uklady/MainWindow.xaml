@@ -1,0 +1,21 @@
+﻿<Window x:Class="uklady.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:uklady"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        ResizeMode="NoResize">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+    <StackPanel VerticalAlignment="Center">
+        <Button x:Name="buttonStackPanel" Content="układ stackpanel" FontSize="40" Margin="0 0 0 10" Click="Button_Click"/>
+        <Button x:Name="buttonWrapPanel" Content="układ wrappanel" FontSize="40" Margin="0 0 0 10" Click="Button_Click"/>
+        <Button x:Name="buttonDockPanel" Content="układ dockpanel" FontSize="40" Margin="0 0 0 10" Click="Button_Click"/>
+        <Button x:Name="buttonUniformGrid" Content="układ uniformpanel" FontSize="40" Margin="0 0 0 10" Click="Button_Click"/>
+        <Button x:Name="buttonGrid" Content="układ grid" FontSize="40" Margin="0 0 0 10" Click="Button_Click"/>
+        <Button x:Name="buttonCanvas" Content="układ canvas" FontSize="40" Margin="0 0 0 10" Click="Button_Click"/>
+        <Button x:Name="buttonPrzybornik" Content="okno z przybornika" FontSize="40" Margin="0 0 0 10" Click="Button_Click"/>
+    </StackPanel>
+    </ScrollViewer>
+</Window>

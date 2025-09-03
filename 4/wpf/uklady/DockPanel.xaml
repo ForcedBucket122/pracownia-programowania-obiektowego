@@ -1,0 +1,18 @@
+﻿<Window x:Class="uklady.DockPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:uklady"
+        mc:Ignorable="d"
+        Title="DockPanel" Height="450" Width="800">
+    <DockPanel>
+        <Button Content="button1" DockPanel.Dock="Top" FontSize="40"/>
+        <Button Content="button2" DockPanel.Dock="Left" FontSize="40"/>
+        <Button Content="button3" DockPanel.Dock="Right" FontSize="40"/>
+        <Button Content="button4" DockPanel.Dock="Bottom" FontSize="40"/>
+        <Button Content="button5" DockPanel.Dock="Top" FontSize="40"/>
+        <Button Content="button6" DockPanel.Dock="Left" FontSize="40"/>
+        <Button Content="button7" DockPanel.Dock="Left" FontSize="40"/>
+    </DockPanel>
+</Window>

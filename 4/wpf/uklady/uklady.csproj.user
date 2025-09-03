@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="canvas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DockPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Grid.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OknoZPrzybornika.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StackPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="uniformGrid.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WrapPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

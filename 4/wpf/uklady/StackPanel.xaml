@@ -1,0 +1,24 @@
+﻿<Window x:Class="uklady.StackPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:uklady"
+        mc:Ignorable="d"
+        Title="StackPanel" Height="450" Width="800"
+        ResizeMode="NoResize">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+    <StackPanel>
+        <Button Content="b1" FontSize="40" Margin="0 10"/>
+        <Button Content="b2" FontSize="40" Margin="0 10"/>
+        <Button Content="b3" FontSize="40" Margin="0 10"/>
+        <Button Content="b4" FontSize="40" Margin="0 10"/>
+        <Button Content="b5" FontSize="40" Margin="0 10"/>
+        <Button Content="b5" FontSize="40" Margin="0 10"/>
+        <Button Content="b5" FontSize="40" Margin="0 10"/>
+        <Button Content="b5" FontSize="40" Margin="0 10"/>
+        <Button Content="b5" FontSize="40" Margin="0 10"/>
+        <Button Content="b5" FontSize="40" Margin="0 10"/>
+    </StackPanel>
+    </ScrollViewer>
+</Window>
