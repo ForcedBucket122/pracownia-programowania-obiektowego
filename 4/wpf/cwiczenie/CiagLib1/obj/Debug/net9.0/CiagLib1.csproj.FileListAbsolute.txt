@@ -1,0 +1,12 @@
+D:\4pb\4\wpf\cwiczenie\CiagLib1\bin\Debug\net9.0\CiagLib1.deps.json
+D:\4pb\4\wpf\cwiczenie\CiagLib1\bin\Debug\net9.0\CiagLib1.dll
+D:\4pb\4\wpf\cwiczenie\CiagLib1\bin\Debug\net9.0\CiagLib1.pdb
+D:\4pb\4\wpf\cwiczenie\CiagLib1\obj\Debug\net9.0\CiagLib1.GeneratedMSBuildEditorConfig.editorconfig
+D:\4pb\4\wpf\cwiczenie\CiagLib1\obj\Debug\net9.0\CiagLib1.AssemblyInfoInputs.cache
+D:\4pb\4\wpf\cwiczenie\CiagLib1\obj\Debug\net9.0\CiagLib1.AssemblyInfo.cs
+D:\4pb\4\wpf\cwiczenie\CiagLib1\obj\Debug\net9.0\CiagLib1.csproj.CoreCompileInputs.cache
+D:\4pb\4\wpf\cwiczenie\CiagLib1\obj\Debug\net9.0\CiagLib1.sourcelink.json
+D:\4pb\4\wpf\cwiczenie\CiagLib1\obj\Debug\net9.0\CiagLib1.dll
+D:\4pb\4\wpf\cwiczenie\CiagLib1\obj\Debug\net9.0\refint\CiagLib1.dll
+D:\4pb\4\wpf\cwiczenie\CiagLib1\obj\Debug\net9.0\CiagLib1.pdb
+D:\4pb\4\wpf\cwiczenie\CiagLib1\obj\Debug\net9.0\ref\CiagLib1.dll

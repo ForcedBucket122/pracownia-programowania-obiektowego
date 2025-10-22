@@ -1,0 +1,9 @@
+okno gowne zawiera 3 batony z tekstem i eeee ten tekst to bedzie taki 
+-oblicz nty wyraz ciagu arytmetycznego majac dany 1 wyraz i roznice 
+-oblicz nty wyraz ciagu geometrycznego majac dany 1 wyraz i iloraz
+-oblicz nty wyraz ciagu fibonacciego
+po kliknieciu odpowiedniego przycisku otwiera sie nowe okno dla kazdego 
+ciagu z potrzebnymi do wpisania danymi
+po nacisnieciu przycisku oblicz obliczany jest odpowiedni wyraz i obliczany
+funkcje obliczajace nty wyraz ciagu napisz w osobnej bibliotece jedna klasa 3 metody
+napisz je rekurencyjnie
