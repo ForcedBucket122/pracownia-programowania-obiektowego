@@ -1,0 +1,24 @@
+﻿<Window x:Class="lista_rozwijana.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lista_rozwijana"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <ComboBox x:Name="kolor" Width="300" SelectedIndex="0" SelectionChanged="kolor_SelectionChanged">
+            <ComboBoxItem Content="żółty"/>
+            <ComboBoxItem Content="czerwony"/>
+            <ComboBoxItem Content="niebieski"/>
+            <ComboBoxItem Content="zielony"/>
+        </ComboBox>
+        <ComboBox x:Name="zwierzeta" Width="300" SelectedIndex="0" SelectionChanged="zwierze_SelectionChanged">
+            <ComboBoxItem Content="lew"/>
+            <ComboBoxItem Content="lampart"/>
+            <ComboBoxItem Content="żółw"/>
+            <ComboBoxItem Content="słoń"/>
+        </ComboBox>
+        <Image x:Name="zdjecie" Source="zdjecia/lew.jpg" Width="100" Margin="0 50 0 0"/>
+    </StackPanel>
+</Window>

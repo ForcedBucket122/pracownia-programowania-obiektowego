@@ -1,0 +1,12 @@
+D:\4pb\4\wpf\biblioteki\MathLib1\bin\Debug\net9.0\MathLib1.deps.json
+D:\4pb\4\wpf\biblioteki\MathLib1\bin\Debug\net9.0\MathLib1.dll
+D:\4pb\4\wpf\biblioteki\MathLib1\bin\Debug\net9.0\MathLib1.pdb
+D:\4pb\4\wpf\biblioteki\MathLib1\obj\Debug\net9.0\MathLib1.GeneratedMSBuildEditorConfig.editorconfig
+D:\4pb\4\wpf\biblioteki\MathLib1\obj\Debug\net9.0\MathLib1.AssemblyInfoInputs.cache
+D:\4pb\4\wpf\biblioteki\MathLib1\obj\Debug\net9.0\MathLib1.AssemblyInfo.cs
+D:\4pb\4\wpf\biblioteki\MathLib1\obj\Debug\net9.0\MathLib1.csproj.CoreCompileInputs.cache
+D:\4pb\4\wpf\biblioteki\MathLib1\obj\Debug\net9.0\MathLib1.sourcelink.json
+D:\4pb\4\wpf\biblioteki\MathLib1\obj\Debug\net9.0\MathLib1.dll
+D:\4pb\4\wpf\biblioteki\MathLib1\obj\Debug\net9.0\refint\MathLib1.dll
+D:\4pb\4\wpf\biblioteki\MathLib1\obj\Debug\net9.0\MathLib1.pdb
+D:\4pb\4\wpf\biblioteki\MathLib1\obj\Debug\net9.0\ref\MathLib1.dll

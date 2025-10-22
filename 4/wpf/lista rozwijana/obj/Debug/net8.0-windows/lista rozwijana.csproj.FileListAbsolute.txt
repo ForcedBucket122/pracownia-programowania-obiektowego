@@ -1,0 +1,21 @@
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\App.g.cs
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana_MarkupCompile.cache
+D:\4pb\4\wpf\lista rozwijana\bin\Debug\net8.0-windows\lista rozwijana.exe
+D:\4pb\4\wpf\lista rozwijana\bin\Debug\net8.0-windows\lista rozwijana.deps.json
+D:\4pb\4\wpf\lista rozwijana\bin\Debug\net8.0-windows\lista rozwijana.runtimeconfig.json
+D:\4pb\4\wpf\lista rozwijana\bin\Debug\net8.0-windows\lista rozwijana.dll
+D:\4pb\4\wpf\lista rozwijana\bin\Debug\net8.0-windows\lista rozwijana.pdb
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana_MarkupCompile.lref
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\MainWindow.baml
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana.g.resources
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana.GeneratedMSBuildEditorConfig.editorconfig
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana.AssemblyInfoInputs.cache
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana.AssemblyInfo.cs
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana.csproj.CoreCompileInputs.cache
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana.sourcelink.json
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana.dll
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\refint\lista rozwijana.dll
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana.pdb
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\lista rozwijana.genruntimeconfig.cache
+D:\4pb\4\wpf\lista rozwijana\obj\Debug\net8.0-windows\ref\lista rozwijana.dll

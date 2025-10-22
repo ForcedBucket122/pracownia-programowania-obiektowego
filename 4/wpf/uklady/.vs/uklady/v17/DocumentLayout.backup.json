@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\4pb\\4\\wpf\\uklady\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|d:\\4pb\\4\\wpf\\uklady\\canvas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|solutionrelative:canvas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|d:\\4pb\\4\\wpf\\uklady\\dockpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|solutionrelative:dockpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|d:\\4pb\\4\\wpf\\uklady\\oknozprzybornika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|solutionrelative:oknozprzybornika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|d:\\4pb\\4\\wpf\\uklady\\stackpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|solutionrelative:stackpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|d:\\4pb\\4\\wpf\\uklady\\canvas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|solutionrelative:canvas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|d:\\4pb\\4\\wpf\\uklady\\dockpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|solutionrelative:dockpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71F2FB72-34B1-42E7-900C-722CCDA0D931}|uklady.csproj|d:\\4pb\\4\\wpf\\uklady\\uniformgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
@@ -70,24 +70,22 @@
               "RelativeToolTip": "StackPanel.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:45:15.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T13:45:15.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StackPanel.xaml",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\uklady\\StackPanel.xaml",
               "RelativeDocumentMoniker": "StackPanel.xaml",
               "ToolTip": "D:\\4pb\\4\\wpf\\uklady\\StackPanel.xaml",
               "RelativeToolTip": "StackPanel.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-03T13:44:55.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T13:44:55.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\uklady\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -95,12 +93,11 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAswDUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:30:49.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T13:30:49.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OknoZPrzybornika.xaml.cs",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\uklady\\OknoZPrzybornika.xaml.cs",
               "RelativeDocumentMoniker": "OknoZPrzybornika.xaml.cs",
@@ -108,8 +105,7 @@
               "RelativeToolTip": "OknoZPrzybornika.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T15:02:30.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T15:02:30.937Z"
             },
             {
               "$type": "Document",
@@ -120,20 +116,18 @@
               "ToolTip": "D:\\4pb\\4\\wpf\\uklady\\uniformGrid.xaml",
               "RelativeToolTip": "uniformGrid.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-03T14:26:42.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:26:42.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OknoZPrzybornika.xaml",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\uklady\\OknoZPrzybornika.xaml",
               "RelativeDocumentMoniker": "OknoZPrzybornika.xaml",
               "ToolTip": "D:\\4pb\\4\\wpf\\uklady\\OknoZPrzybornika.xaml",
               "RelativeToolTip": "OknoZPrzybornika.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-03T14:56:37.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:56:37.098Z"
             },
             {
               "$type": "Document",
@@ -156,8 +150,7 @@
               "ToolTip": "D:\\4pb\\4\\wpf\\uklady\\WrapPanel.xaml",
               "RelativeToolTip": "WrapPanel.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-03T14:07:31.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:07:31.612Z"
             },
             {
               "$type": "Document",
@@ -168,36 +161,33 @@
               "ToolTip": "D:\\4pb\\4\\wpf\\uklady\\Grid.xaml",
               "RelativeToolTip": "Grid.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-03T14:16:36.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:16:36.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\uklady\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "D:\\4pb\\4\\wpf\\uklady\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-03T13:30:57.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T13:30:57.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "DockPanel.xaml",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\uklady\\DockPanel.xaml",
               "RelativeDocumentMoniker": "DockPanel.xaml",
               "ToolTip": "D:\\4pb\\4\\wpf\\uklady\\DockPanel.xaml",
               "RelativeToolTip": "DockPanel.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-03T14:29:51.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:29:51.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "canvas.xaml",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\uklady\\canvas.xaml",
               "RelativeDocumentMoniker": "canvas.xaml",

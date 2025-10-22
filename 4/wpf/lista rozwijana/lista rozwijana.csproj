@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>lista_rozwijana</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="zdjecia\lampart.jpg" />
+    <None Remove="zdjecia\lew.jpg" />
+    <None Remove="zdjecia\slon.jpg" />
+    <None Remove="zdjecia\zolw.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="zdjecia\lampart.jpg" />
+    <Resource Include="zdjecia\lew.jpg" />
+    <Resource Include="zdjecia\slon.jpg" />
+    <Resource Include="zdjecia\zolw.jpg" />
+  </ItemGroup>
+
+</Project>
