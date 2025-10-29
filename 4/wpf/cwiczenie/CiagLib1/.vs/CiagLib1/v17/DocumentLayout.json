@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{38433C7D-0E55-4535-89CE-D849BCBE0824}|CiagLib1.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciaglib1\\ciagi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38433C7D-0E55-4535-89CE-D849BCBE0824}|CiagLib1.csproj|solutionrelative:ciagi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38433C7D-0E55-4535-89CE-D849BCBE0824}|CiagLib1.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciaglib1\\ciaglib1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38433C7D-0E55-4535-89CE-D849BCBE0824}|CiagLib1.csproj|solutionrelative:ciaglib1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CiagLib1",
+              "DocumentMoniker": "D:\\4pb\\4\\wpf\\cwiczenie\\CiagLib1\\CiagLib1.csproj",
+              "RelativeDocumentMoniker": "CiagLib1.csproj",
+              "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\CiagLib1\\CiagLib1.csproj",
+              "RelativeToolTip": "CiagLib1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T14:13:20.331Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Ciagi.cs",
               "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\CiagLib1\\Ciagi.cs",
               "RelativeToolTip": "Ciagi.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T14:37:08.514Z",
               "EditorCaption": ""

@@ -23,8 +23,30 @@ namespace ciagiliczbowe
         public fibonacci()
         {
             InitializeComponent();
-            int n = int.Parse(IndexBox.Text);
-            ResultText.Text = Ciagi.Fibonacci(n).ToString();
+        }
+
+        private void Calculate(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                int n = int.Parse(IndexBox.Text);
+                if (n < 0) {
+                    MessageBox.Show("Wyraz n nie moze byc ujemny");
+                }
+                else
+                {
+                    ResultText.Text = Ciagi.Fibonacci(n).ToString();
+                }
+
+            }
+            catch (FormatException ex)
+            {
+                ResultText.Text = "Błędny format";
+            }
+            catch (Exception ex)
+            {
+                ResultText.Text = ex.Message;
+            }
         }
     }
 }

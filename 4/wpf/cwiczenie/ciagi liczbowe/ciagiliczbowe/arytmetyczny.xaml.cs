@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CiagLib1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,36 @@ namespace ciagiliczbowe
         public arytmetyczny()
         {
             InitializeComponent();
+            
+        }
+
+        private void Calculate(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+
+
+                double pierwszy, roznica;
+                int n;
+                pierwszy = double.Parse(FirstTermBox.Text);
+                roznica = double.Parse(DifferenceBox.Text);
+                n = int.Parse(IndexBox.Text);
+                if (n < 0)
+                {
+                    MessageBox.Show("Wyraz n nie moze byc ujemny");
+                }
+                else
+                {
+                    ResultText.Text = Ciagi.Arytmetyczny(pierwszy, roznica, n).ToString();
+                }
+            }catch(FormatException ex)
+            {
+                ResultText.Text = "Błędny format";
+            }
+            catch (Exception ex)
+            {
+                ResultText.Text = ex.Message;
+            }
         }
     }
 }
