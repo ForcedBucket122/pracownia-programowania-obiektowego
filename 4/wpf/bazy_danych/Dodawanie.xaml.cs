@@ -104,7 +104,7 @@ namespace bazy_danych
                 int wynik = cmd.ExecuteNonQuery();
 
                 if (wynik > 0)
-                    MessageBox.Show("Uczeń został usunięty.");
+                    MessageBox.Show("Uczeń został dodany.");
                 else
                     MessageBox.Show("Nie udało się dodać ucznia.");
 

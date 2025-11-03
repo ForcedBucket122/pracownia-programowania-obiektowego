@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\arytmetyczny.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|solutionrelative:arytmetyczny.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\geometryczny.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|solutionrelative:geometryczny.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\geometryczny.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|solutionrelative:geometryczny.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\fibonacci.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|solutionrelative:fibonacci.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\fibonacci.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|solutionrelative:fibonacci.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\geometryczny.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|solutionrelative:geometryczny.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\arytmetyczny.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|solutionrelative:arytmetyczny.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4pb\\4\\wpf\\cwiczenie\\CiagLib1\\Ciagi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\geometryczny.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|solutionrelative:geometryczny.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\fibonacci.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|solutionrelative:fibonacci.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{373BA90A-B664-449B-8726-DC64BF2C49CB}|ciagiliczbowe.csproj|d:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\arytmetyczny.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -57,51 +57,47 @@
               "RelativeToolTip": "..\\..\\CiagLib1\\Ciagi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T14:25:57.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T14:25:57.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "arytmetyczny.xaml.cs",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\arytmetyczny.xaml.cs",
               "RelativeDocumentMoniker": "arytmetyczny.xaml.cs",
-              "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\arytmetyczny.xaml.cs*",
-              "RelativeToolTip": "arytmetyczny.xaml.cs*",
+              "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\arytmetyczny.xaml.cs",
+              "RelativeToolTip": "arytmetyczny.xaml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAowC4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T14:21:30.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "geometryczny.xaml.cs",
-              "DocumentMoniker": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\geometryczny.xaml.cs",
-              "RelativeDocumentMoniker": "geometryczny.xaml.cs",
-              "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\geometryczny.xaml.cs*",
-              "RelativeToolTip": "geometryczny.xaml.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T14:13:58.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T14:21:30.886Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "fibonacci.xaml.cs",
-              "DocumentMoniker": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\fibonacci.xaml.cs",
-              "RelativeDocumentMoniker": "fibonacci.xaml.cs",
-              "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\fibonacci.xaml.cs*",
-              "RelativeToolTip": "fibonacci.xaml.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowCAAAAAQAAAAAAAAAA==",
+              "Title": "geometryczny.xaml.cs",
+              "DocumentMoniker": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\geometryczny.xaml.cs",
+              "RelativeDocumentMoniker": "geometryczny.xaml.cs",
+              "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\geometryczny.xaml.cs",
+              "RelativeToolTip": "geometryczny.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:23:24.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T14:13:58.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "fibonacci.xaml.cs",
+              "DocumentMoniker": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\fibonacci.xaml.cs",
+              "RelativeDocumentMoniker": "fibonacci.xaml.cs",
+              "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\fibonacci.xaml.cs",
+              "RelativeToolTip": "fibonacci.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:23:24.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "geometryczny.xaml",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\geometryczny.xaml",
               "RelativeDocumentMoniker": "geometryczny.xaml",
@@ -120,8 +116,7 @@
               "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\arytmetyczny.xaml",
               "RelativeToolTip": "arytmetyczny.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T15:05:45.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T15:05:45.443Z"
             },
             {
               "$type": "Document",
@@ -132,20 +127,18 @@
               "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T14:28:54.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T14:28:54.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "fibonacci.xaml",
               "DocumentMoniker": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\fibonacci.xaml",
               "RelativeDocumentMoniker": "fibonacci.xaml",
               "ToolTip": "D:\\4pb\\4\\wpf\\cwiczenie\\ciagi liczbowe\\ciagiliczbowe\\fibonacci.xaml",
               "RelativeToolTip": "fibonacci.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T15:07:26.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T15:07:26.805Z"
             },
             {
               "$type": "Document",
@@ -157,8 +150,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAkwCMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:28:53.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T14:28:53.017Z"
             }
           ]
         }

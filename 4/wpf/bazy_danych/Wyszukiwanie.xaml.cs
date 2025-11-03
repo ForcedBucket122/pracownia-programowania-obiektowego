@@ -43,7 +43,7 @@ namespace bazy_danych
             {
                 String nazwisko1 = Nazwisko.Text;
                 polaczenie.Open();
-                string kwerenda = $"SELECT uczniowie.id as 'id ucznia',uczniowie.nazwisko,uczniowie.imie as imię,klasa.nazwaKlasy as klasa, wychowawca.nazwisko as 'nazwisko wychowawcy' ,wychowawca.imie as 'imię wychowawcy' ,uczniowie.wplataRR FROM uczniowie INNER JOIN klasa ON uczniowie.klasa=klasa.id INNER JOIN wychowawca ON uczniowie.wychowawca=wychowawca.id WHERE nazwisko LIKE '%{nazwisko1}%'";
+                string kwerenda = $"SELECT uczniowie.id as 'id ucznia',uczniowie.nazwisko,uczniowie.imie as imię,klasa.nazwaKlasy as klasa, wychowawca.nazwisko as 'nazwisko wychowawcy' ,wychowawca.imie as 'imię wychowawcy' ,uczniowie.wplataRR FROM uczniowie INNER JOIN klasa ON uczniowie.klasa=klasa.id INNER JOIN wychowawca ON uczniowie.wychowawca=wychowawca.id WHERE uczniowie.nazwisko LIKE '%{nazwisko1}%'";
                 //tworzymy obiekt połaczenia do konstruktora przekazujemy kwerende i połaczenie
                 MySqlCommand cmd = new MySqlCommand(kwerenda, polaczenie);
 
