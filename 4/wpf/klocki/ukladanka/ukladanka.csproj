@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="grafika\sshrek-0-0.png" />
+    <None Remove="grafika\sshrek-0-1.png" />
+    <None Remove="grafika\sshrek-0-2.png" />
+    <None Remove="grafika\sshrek-0-3.png" />
+    <None Remove="grafika\sshrek-1-0.png" />
+    <None Remove="grafika\sshrek-1-1.png" />
+    <None Remove="grafika\sshrek-1-2.png" />
+    <None Remove="grafika\sshrek-1-3.png" />
+    <None Remove="grafika\sshrek-2-0.png" />
+    <None Remove="grafika\sshrek-2-1.png" />
+    <None Remove="grafika\sshrek-2-2.png" />
+    <None Remove="grafika\sshrek-2-3.png" />
+    <None Remove="grafika\sshrek-3-0.png" />
+    <None Remove="grafika\sshrek-3-1.png" />
+    <None Remove="grafika\sshrek-3-2.png" />
+    <None Remove="grafika\sshrek-3-3.png" />
+    <None Remove="grafika\sshrek.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="grafika\sshrek-0-0.png" />
+    <Resource Include="grafika\sshrek-0-1.png" />
+    <Resource Include="grafika\sshrek-0-2.png" />
+    <Resource Include="grafika\sshrek-0-3.png" />
+    <Resource Include="grafika\sshrek-1-0.png" />
+    <Resource Include="grafika\sshrek-1-1.png" />
+    <Resource Include="grafika\sshrek-1-2.png" />
+    <Resource Include="grafika\sshrek-1-3.png" />
+    <Resource Include="grafika\sshrek-2-0.png" />
+    <Resource Include="grafika\sshrek-2-1.png" />
+    <Resource Include="grafika\sshrek-2-2.png" />
+    <Resource Include="grafika\sshrek-2-3.png" />
+    <Resource Include="grafika\sshrek-3-0.png" />
+    <Resource Include="grafika\sshrek-3-1.png" />
+    <Resource Include="grafika\sshrek-3-2.png" />
+    <Resource Include="grafika\sshrek-3-3.png" />
+    <Resource Include="grafika\sshrek.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="ukladanka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ukladanka"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="808">
+    <WrapPanel>
+        <Image Source="/grafika/sshrek-0-0.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-1-0.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-2-0.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-3-0.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-0-1.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-1-1.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-2-1.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-3-1.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-0-2.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-1-2.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-2-2.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-3-2.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-0-3.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-1-3.png" Width="200" Height="200" Margin="1"/>
+        <Image Source="/grafika/sshrek-2-3.png" Width="200" Height="200" Margin="1"/>
+    </WrapPanel>
+</Window>

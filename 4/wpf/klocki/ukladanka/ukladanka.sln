@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ukladanka", "ukladanka.csproj", "{848DB9BE-9177-4805-91BC-62AB025CBD68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{848DB9BE-9177-4805-91BC-62AB025CBD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848DB9BE-9177-4805-91BC-62AB025CBD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848DB9BE-9177-4805-91BC-62AB025CBD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848DB9BE-9177-4805-91BC-62AB025CBD68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D1B562-2096-4351-9058-5B044BC443CE}
+	EndGlobalSection
+EndGlobal
