@@ -25,7 +25,6 @@ namespace timer
             timer.Interval = TimeSpan.FromSeconds(0.00000000001);
             timer.Tick += Timer_Tick;
         }
-
         private void Timer_Tick(object? sender, EventArgs e)
         {
             czas.Content = DateTime.Now.ToString("HH:mm:ss:fffff");

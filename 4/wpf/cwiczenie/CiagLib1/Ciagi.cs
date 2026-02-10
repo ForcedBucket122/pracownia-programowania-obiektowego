@@ -6,7 +6,7 @@
         {
             if (n == 1)
             {
-                return pierwszy_wyraz;
+              
             }
             else
             {
