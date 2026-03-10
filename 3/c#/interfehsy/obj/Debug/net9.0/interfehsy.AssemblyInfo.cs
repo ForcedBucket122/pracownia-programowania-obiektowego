@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("interfehsy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8ebf3b4ebbd1bb8fcf44f87cee5becaed5a939f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9a69f2d8309da00abfa9eb9d7522ad041106b16")]
 [assembly: System.Reflection.AssemblyProductAttribute("interfehsy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("interfehsy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

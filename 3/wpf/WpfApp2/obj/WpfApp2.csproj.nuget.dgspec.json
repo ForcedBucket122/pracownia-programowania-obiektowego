@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3pb\\3\\wpf\\WpfApp2\\WpfApp2.csproj": {}
+    "D:\\4pb\\3\\wpf\\WpfApp2\\WpfApp2.csproj": {}
   },
   "projects": {
-    "D:\\3pb\\3\\wpf\\WpfApp2\\WpfApp2.csproj": {
+    "D:\\4pb\\3\\wpf\\WpfApp2\\WpfApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3pb\\3\\wpf\\WpfApp2\\WpfApp2.csproj",
+        "projectUniqueName": "D:\\4pb\\3\\wpf\\WpfApp2\\WpfApp2.csproj",
         "projectName": "WpfApp2",
-        "projectPath": "D:\\3pb\\3\\wpf\\WpfApp2\\WpfApp2.csproj",
+        "projectPath": "D:\\4pb\\3\\wpf\\WpfApp2\\WpfApp2.csproj",
         "packagesPath": "C:\\Users\\programowanie\\.nuget\\packages\\",
-        "outputPath": "D:\\3pb\\3\\wpf\\WpfApp2\\obj\\",
+        "outputPath": "D:\\4pb\\3\\wpf\\WpfApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0-windows7.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
