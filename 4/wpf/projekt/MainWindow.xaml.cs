@@ -44,10 +44,6 @@ namespace projekt
            Canvas.SetTop(doh, Canvas.GetTop(doh)+10);
         }
 
-        public void MouseDown(object sender, MouseEventArgs e)
-        {
-           
-        }
         public void MouseUp(object sender, MouseButtonEventArgs e)
         {
             przeciaganie = false;

@@ -1,0 +1,71 @@
+﻿<Window x:Class="Zadanie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Zwierzęta" Width="1000" Height="550">
+
+    <Canvas x:Name="MainCanvas" Background="LightGoldenrodYellow">
+        <!-- ZWIERZĘTA -->
+       
+        <!-- PUDEŁKA -->
+        <Border Tag="pies" Width="130" Height="90" BorderBrush="SaddleBrown" BorderThickness="3"
+                Background="BurlyWood" Canvas.Left="75" Canvas.Top="380" CornerRadius="5">
+            <TextBlock Text="PIES" FontSize="16" FontWeight="Bold"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <Border Tag="kot" Width="130" Height="90" BorderBrush="SaddleBrown" BorderThickness="3"
+                Background="BurlyWood" Canvas.Left="225" Canvas.Top="380" CornerRadius="5">
+            <TextBlock Text="KOT" FontSize="16" FontWeight="Bold"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <Border Tag="krowa" Width="130" Height="90" BorderBrush="SaddleBrown" BorderThickness="3"
+                Background="BurlyWood" Canvas.Left="375" Canvas.Top="380" CornerRadius="5">
+            <TextBlock Text="KROWA" FontSize="16" FontWeight="Bold"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <Border Tag="kon" Width="130" Height="90" BorderBrush="SaddleBrown" BorderThickness="3"
+                Background="BurlyWood" Canvas.Left="525" Canvas.Top="380" CornerRadius="5">
+            <TextBlock Text="KOŃ" FontSize="16" FontWeight="Bold"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <Border Tag="owca" Width="130" Height="90" BorderBrush="SaddleBrown" BorderThickness="3"
+                Background="BurlyWood" Canvas.Left="675" Canvas.Top="380" CornerRadius="5">
+            <TextBlock Text="OWCA" FontSize="16" FontWeight="Bold"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <Border Tag="kaczka" Width="130" Height="90" BorderBrush="SaddleBrown" BorderThickness="3"
+                Background="BurlyWood" Canvas.Left="825" Canvas.Top="380" CornerRadius="5">
+            <TextBlock Text="KACZKA" FontSize="16" FontWeight="Bold"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <Image x:Name="imgPies" Tag="pies" Source="grafika/pies.png" Width="120" Height="100"
+        Canvas.Left="50" Canvas.Top="50"
+        MouseLeftButtonDown="Animal_MouseLeftButtonDown" 
+        MouseMove="Animal_MouseMove" 
+        MouseLeftButtonUp="Animal_MouseLeftButtonUp"/>
+        <Image x:Name="imgKot" Tag="kot" Source="grafika/kot.jpg" Width="120" Height="100"
+        Canvas.Left="200" Canvas.Top="50"
+        MouseLeftButtonDown="Animal_MouseLeftButtonDown" 
+        MouseMove="Animal_MouseMove" 
+        MouseLeftButtonUp="Animal_MouseLeftButtonUp"/>
+        <Image x:Name="imgKrowa" Tag="krowa" Source="grafika/krowa.jpg" Width="120" Height="100"
+        Canvas.Left="350" Canvas.Top="50"
+        MouseLeftButtonDown="Animal_MouseLeftButtonDown" 
+        MouseMove="Animal_MouseMove" 
+        MouseLeftButtonUp="Animal_MouseLeftButtonUp"/>
+        <Image x:Name="imgKon" Tag="kon" Source="grafika/kon.png" Width="120" Height="100"
+        Canvas.Left="500" Canvas.Top="50"
+        MouseLeftButtonDown="Animal_MouseLeftButtonDown" 
+        MouseMove="Animal_MouseMove" 
+        MouseLeftButtonUp="Animal_MouseLeftButtonUp"/>
+        <Image x:Name="imgOwca" Tag="owca" Source="grafika/owca.png" Width="120" Height="100"
+        Canvas.Left="650" Canvas.Top="50"
+        MouseLeftButtonDown="Animal_MouseLeftButtonDown" 
+        MouseMove="Animal_MouseMove" 
+        MouseLeftButtonUp="Animal_MouseLeftButtonUp"/>
+        <Image x:Name="imgKaczka" Tag="kaczka" Source="grafika/kaczka.png" Width="120" Height="100"
+        Canvas.Left="800" Canvas.Top="50"
+        MouseLeftButtonDown="Animal_MouseLeftButtonDown" 
+        MouseMove="Animal_MouseMove" 
+        MouseLeftButtonUp="Animal_MouseLeftButtonUp"/>
+    </Canvas>
+</Window>
